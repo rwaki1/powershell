@@ -1,0 +1,41 @@
+@{Name=BRBSBCMDP2} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=10.184.0.214} ; 4209d185-2942-97dc-e2db-729d0245d035  
+@{Name=BRBSBGISAP3} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=10.184.0.198} ; 4209b26e-010d-e747-7364-2711bc634b4d  
+@{Name=BRBSBSQL2} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=10.184.0.201} ; 42092d7e-e83c-c384-288f-b76a05f2ae8b  
+@{Name=CAKEMFILE2} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=10.3.86.18} ; 42096a97-bcdd-bc70-0d93-79639a62fda3  
+@{Name=CAKEMPRT1} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=10.3.86.19} ; 4209bb59-67f2-5c4f-8d66-4e2b1771e5f2  
+@{Name=CAMTLMON1} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=10.32.0.41} ; 42173aeb-5e0c-751e-47d0-f808d371ee77  
+@{Name=CAMTLMON2} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=10.32.0.45} ; 42173d1c-033b-4430-0aca-3f9f76b8b5c9  
+@{Name=CAMTLVSW10} ; @{Name=; Running OS=VMware ESXi 6.x; IP Address=10.18.16.134} ; 4209b3a2-a6b6-4a86-dbb4-14937c2b6da2  
+@{Name=CAMTLVSW14} ; @{Name=; Running OS=VMware ESXi 6.x; IP Address=10.18.16.125} ; 4217c10d-3ce5-9e87-daae-5efc300f52c2  
+@{Name=CASAGTSTSRV33} ; @{Name=; Running OS=Microsoft Windows Server 2016 or later (64-bit); IP Address=10.1.148.179} ; 4217d493-927d-c93b-b25c-1814727c2e1e  
+@{Name=CASORAP25} ; @{Name=; Running OS=Windows Server 2019, 64-bit  (Build 17763.3532); IP Address=10.113.192.50} ; 4209bbdf-2944-b34b-e05e-c4769f8b1ca4  
+@{Name=CASORCTXAP7} ; @{Name=; Running OS=Microsoft Windows Server 2008 R2 (64-bit); IP Address=10.113.192.69} ; 420ea013-d2a4-fcea-0812-5ff16c7c2d44  
+@{Name=CASORDMZSGI} ; @{Name=; Running OS=Microsoft Windows Server 2008 R2 (64-bit); IP Address=10.113.253.5} ; 4209dcda-63fb-896b-33f7-f855334290a3  
+@{Name=CASORSQL12} ; @{Name=; Running OS=Microsoft Windows Server 2008 R2 (64-bit); IP Address=10.113.192.97} ; 420eef79-51da-97b7-8169-8dbae5487a38  
+@{Name=CASORTS1} ; @{Name=; Running OS=Windows Server 2019, 64-bit  (Build 17763.3532); IP Address=10.113.193.138} ; 4209aa63-2ffd-bc8a-ba95-2bc8e51550e6  
+@{Name=CASORZFS1} ; @{Name=; Running OS=Windows Server 2019, 64-bit  (Build 17763.2237); IP Address=10.113.193.130} ; 4209098a-5fcd-f98a-5115-8ac57b0a492e  
+@{Name=CASTRFILE2} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=10.192.32.6} ; 564d6fdb-ba9b-710c-0a04-0c8529508733  
+@{Name=CATBYCMDP3} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=148.175.2.145} ; 42096800-795e-aa3f-3bdf-9caef3973327  
+@{Name=CATBYINFRA1} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=148.175.2.141} ; 42097e7a-d496-ff64-9d7e-665c6780397d  
+@{Name=CGI-ZBXPRXBSB01} ; @{Name=; Running OS=Red Hat Enterprise Linux 7 (64-bit); IP Address=10.184.0.211} ; 4209826c-192b-e553-ef27-5d169bce05e0  
+@{Name=CGI-ZBXPRXHSP01} ; @{Name=; Running OS=CentOS 7 (64-bit); IP Address=10.113.204.200} ; 42099744-4882-7468-ed4e-7fa06063a2f9  
+@{Name=CGI-ZBXPRXLIM01} ; @{Name=; Running OS=Red Hat Enterprise Linux 7 (64-bit); IP Address=10.220.20.35} ; 420942ca-799f-3582-fc2c-c9e33343ede2  
+@{Name=CGI-ZBXPRXRWL01} ; @{Name=; Running OS=Other 4.x or later Linux (64-bit); IP Address=10.147.95.15} ; 42091157-3b39-5df7-a0ad-48ea80bcce81  
+@{Name=CGI-ZBXPRXSOR01} ; @{Name=; Running OS=CentOS 7 (64-bit); IP Address=10.113.192.175} ; 42094f99-c9e9-761e-1a7f-096c5d50d4d1  
+@{Name=CGI-ZBXPRXTBY01} ; @{Name=; Running OS=Red Hat Enterprise Linux 7 (64-bit); IP Address=} ; 42096500-ce85-d73a-e86a-ad44dc53b52a  
+@{Name=CLSCLCMDP2} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=10.220.16.37} ; 4209e59e-b910-7867-cb98-7d556a1066c2  
+@{Name=PELIMCMDP2} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=10.220.20.102} ; 42096fad-b5b7-ff3f-5683-3c57681a29d2  
+@{Name=USCHICMDP2} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=10.139.2.7} ; 42091d61-7662-765e-e45d-43f5cc791236  
+@{Name=USSLCBUCVM2} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=10.140.76.5} ; 4209e9be-4964-0729-5151-897446f67345  
+@{Name=USSLCFS26} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=10.140.76.46} ; 42096151-772a-2da5-7e48-049e9d1648de  
+@{Name=ussupskycol1} ; @{Name=; Running OS=Red Hat Enterprise Linux 6 (64-bit); IP Address=148.175.66.170} ; 42170fe6-6149-f795-2e40-e1bd29d1461e  
+@{Name=BRBSBFS3} ; @{Name=; Running OS=Microsoft Windows Server 2016 or later (64-bit); IP Address=10.184.0.213} ; 42092df3-1b3b-f99f-9c9d-bdd667b3ba9b  
+@{Name=BRBSBFS4} ; @{Name=; Running OS=Microsoft Windows Server 2016 or later (64-bit); IP Address=10.184.0.196} ; 42094252-3a4d-32c9-be3d-65ce7f2481e6  
+@{Name=BRBSBGIS1} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=10.184.0.205} ; 564d2e6a-6339-82cd-4338-600ebfe886b7  
+@{Name=BRBSBGISAP2} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=10.184.0.199} ; 4209880d-8c79-de33-e588-7e45c0c24ec8  
+@{Name=BRBSBSQL3} ; @{Name=; Running OS=Microsoft Windows Server 2008 R2 (64-bit); IP Address=} ; 420980c3-ccd7-dfac-340f-86822bd2bb60  
+@{Name=BRBSBSQL4} ; @{Name=; Running OS=Microsoft Windows Server 2016 or later (64-bit); IP Address=10.184.0.210} ; 4209dcf9-3a89-4a65-94e3-a4a44aaa71bd  
+@{Name=BRBSBTS1} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=10.184.0.200} ; 420902f6-05de-7c38-862d-724de65f6273  
+@{Name=BRGRUFS2} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=148.175.206.20} ; 4209ca1d-dd90-ba20-d4fc-66438800abd9  
+@{Name=BRGRUINFRA1} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=148.175.206.18} ; 4209d6dd-ff41-843a-0c0b-7e3bd8a5e6b1  
+@{Name=BRGRUTS1} ; @{Name=; Running OS=Microsoft Windows Server 2019 (64-bit); IP Address=148.175.206.27} ; 4209d466-4d4a-6704-892c-1fb5f979c35d 
