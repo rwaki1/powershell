@@ -1,0 +1,1 @@
+Get-VM | ?{$_.extensionData.Config.BootOptions.EfiSecureBootEnabled -AND $_.Guest.OSFullName -match '2022' -AND $_.PowerState -eq 'PoweredOn'} | Sort-Object Name
